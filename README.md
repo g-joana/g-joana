@@ -1,4 +1,4 @@
-- ⭐ Hi, my name is jou
+- ⭐ Hi, my name is jou (she/her)
 - 💞️ I'm into UX design, creative programming and coding
 - 🐢 I’m currently learning C at [42 Rio](https://42.rio/)
 - 👀 I’m looking to collaborate on small C projects :)
