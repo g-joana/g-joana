@@ -1,5 +1,5 @@
-- ⭐ Hi, my name is jou (she/her)
-- 💞️ I'm into UX design and creative programming
+- ⭐ Hi, my name is joana
+- 💞️ I'm into creative programming
 - 🐢 I’m currently learning C at [42 Rio](https://42.rio/)
 - 👀 I’m looking to collaborate on small C projects :)
 - 📫 How to reach me: g.joana.rio@gmail.com
