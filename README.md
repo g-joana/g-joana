@@ -5,4 +5,4 @@
 - 📫 How to reach me: g.joana.rio@gmail.com
 <br></br>
 
-[What I've been doing at 42!](https://github.com/g-joana/42)
+[What I've been doing at 42](https://github.com/g-joana/42)
